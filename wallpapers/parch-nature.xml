@@ -1,0 +1,180 @@
+<?xml version="1.0"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+  <wallpaper deleted="false">
+    <name>Background 1</name>
+    <filename>/usr/share/wallpapers/parch-nature/nature-10.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#0B0021</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Background 2</name>
+    <filename>/usr/share/wallpapers/parch-nature/nature-11.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#241f31</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Background 3</name>
+    <filename>/usr/share/wallpapers/parch-nature/nature-12.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#0B0021</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Background 4</name>
+    <filename>/usr/share/wallpapers/parch-nature/nature-13.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#241f31</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Background 5</name>
+    <filename>/usr/share/wallpapers/parch-nature/nature-14.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#0B0021</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Background 6</name>
+    <filename>/usr/share/wallpapers/parch-nature/nature-15.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#241f31</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Background 7</name>
+    <filename>/usr/share/wallpapers/parch-nature/nature-16.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#0B0021</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Background 8</name>
+    <filename>/usr/share/wallpapers/parch-nature/nature-17.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#241f31</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Background 9</name>
+    <filename>/usr/share/wallpapers/parch-nature/nature-18.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#0B0021</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Background 10</name>
+    <filename>/usr/share/wallpapers/parch-nature/nature-19.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#241f31</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Background 11</name>
+    <filename>/usr/share/wallpapers/parch-nature/nature-1.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#0B0021</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Background 12</name>
+    <filename>/usr/share/wallpapers/parch-nature/nature-20.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#241f31</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Background 13</name>
+    <filename>/usr/share/wallpapers/parch-nature/nature-21.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#0B0021</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Background 14</name>
+    <filename>/usr/share/wallpapers/parch-nature/nature-22.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#241f31</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Background 15</name>
+    <filename>/usr/share/wallpapers/parch-nature/nature-2.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#0B0021</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Background 16</name>
+    <filename>/usr/share/wallpapers/parch-nature/nature-3.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#241f31</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Background 17</name>
+    <filename>/usr/share/wallpapers/parch-nature/nature-4.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#0B0021</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Background 18</name>
+    <filename>/usr/share/wallpapers/parch-nature/nature-5.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#241f31</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Background 19</name>
+    <filename>/usr/share/wallpapers/parch-nature/nature-6.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#0B0021</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Background 20</name>
+    <filename>/usr/share/wallpapers/parch-nature/nature-7.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#241f31</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Background 21</name>
+    <filename>/usr/share/wallpapers/parch-nature/nature-8.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#0B0021</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Background 22</name>
+    <filename>/usr/share/wallpapers/parch-nature/nature-9.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#241f31</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+</wallpapers>
